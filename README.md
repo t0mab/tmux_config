@@ -1,4 +1,7 @@
 tmux_config
 ===========
 
-My tmux config file
+== Install
+
+* git clone https:://github.com/t0mab/tmux_config/ .config/tmux
+* ln -s ~/.config/tmux/tmux.config ~/.tmux.conf
